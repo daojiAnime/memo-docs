@@ -30,6 +30,16 @@
 
 ![image-20250307163708522](https://cdn.jsdelivr.net/gh/daojiAnime/cdn@master/img/image-20250307163708522.png)
 
+## ChatDOC PDF Parser
+
+- 前半部分解析效果正常，没有识别图片内容
+
+- 后半部分抽取图片文本效果不完整，但是能够将抽取的文本内容从图片中截取掉
+
+![image-20250307164552659](https://cdn.jsdelivr.net/gh/daojiAnime/cdn@master/img/image-20250307164552659.png)
+
+![image-20250307164621494](https://cdn.jsdelivr.net/gh/daojiAnime/cdn@master/img/image-20250307164621494.png)
+
 ## 自研
 
 - 存在技术背景，擅长文档解析，经验丰富。
