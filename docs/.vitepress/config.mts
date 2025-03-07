@@ -40,13 +40,14 @@ export default defineConfig({
       {
         text: '开发文档',
         items: [
+          { text: '文档解析方案', link: '/develop/doc-decode-plan' },
           { text: '前端镜像构建文档', link: '/develop/frontend-image' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/STARTERLanG/MemoMate' }
+      { icon: 'github', link: 'https://github.com/memo-mate/MemoMate' }
     ],
     search: {
       provider: 'local'
