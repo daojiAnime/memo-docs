@@ -41,7 +41,8 @@ export default defineConfig({
         text: '开发文档',
         items: [
           { text: '文档解析方案', link: '/develop/doc-decode-plan' },
-          { text: '前端镜像构建文档', link: '/develop/frontend-image' }
+          { text: '核心模块文档', link: '/develop/core-modules' },
+          { text: '前端镜像构建文档', link: '/develop/frontend-image' },
         ]
       }
     ],
